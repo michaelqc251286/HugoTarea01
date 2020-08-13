@@ -10,3 +10,4 @@ theme = "anankeg"
 	title = "Posts"
 	url = "/posts/"
 	weight = 0
+    
