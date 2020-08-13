@@ -1,4 +1,4 @@
-baseURL = "https://vivirconpandemia.netlify.app/"
+baseURL = "https://vivirpandemia.netlify.app/"
 languageCode = "en-us"
 title = "TAREA 01"
 theme = "gohugo-theme-ananke"
