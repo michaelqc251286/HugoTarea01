@@ -1,4 +1,4 @@
-baseURL = "https://github.com/michaelqc251286/HugoTarea01"
+baseURL = "http://tarea01mqc.netlify.app/"
 languageCode = "en-us"
 title = "TAREA 01"
 theme = "anankeg"
