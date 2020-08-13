@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on TAREA 01</title>
+    <link>http://tarea01mqc.netlify.app/posts/</link>
+    <description>Recent content in Posts on TAREA 01</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Aug 2020 19:04:32 -0600</lastBuildDate>
+    
+	<atom:link href="http://tarea01mqc.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entrada05</title>
+      <link>http://tarea01mqc.netlify.app/posts/entrada05/</link>
+      <pubDate>Wed, 12 Aug 2020 19:04:32 -0600</pubDate>
+      
+      <guid>http://tarea01mqc.netlify.app/posts/entrada05/</guid>
+      <description>Experiencia con la pandemia (COVID 19)</description>
+    </item>
+    
+    <item>
+      <title>Entrada04</title>
+      <link>http://tarea01mqc.netlify.app/posts/entrada04/</link>
+      <pubDate>Wed, 12 Aug 2020 19:04:28 -0600</pubDate>
+      
+      <guid>http://tarea01mqc.netlify.app/posts/entrada04/</guid>
+      <description>Experiencia con la pandemia (COVID 19)</description>
+    </item>
+    
+    <item>
+      <title>Entrada03</title>
+      <link>http://tarea01mqc.netlify.app/posts/entrada03/</link>
+      <pubDate>Wed, 12 Aug 2020 19:04:19 -0600</pubDate>
+      
+      <guid>http://tarea01mqc.netlify.app/posts/entrada03/</guid>
+      <description>Experiencia con la pandemia (COVID 19)</description>
+    </item>
+    
+    <item>
+      <title>Entrada02</title>
+      <link>http://tarea01mqc.netlify.app/posts/entrada02/</link>
+      <pubDate>Wed, 12 Aug 2020 19:04:15 -0600</pubDate>
+      
+      <guid>http://tarea01mqc.netlify.app/posts/entrada02/</guid>
+      <description>Experiencia con la pandemia (COVID 19)</description>
+    </item>
+    
+    <item>
+      <title>Entrada01</title>
+      <link>http://tarea01mqc.netlify.app/posts/entrada01/</link>
+      <pubDate>Wed, 12 Aug 2020 19:04:10 -0600</pubDate>
+      
+      <guid>http://tarea01mqc.netlify.app/posts/entrada01/</guid>
+      <description>Experiencia con la pandemia (COVID 19)</description>
+    </item>
+    
+  </channel>
+</rss>
