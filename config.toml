@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "TAREA 01"
+theme = "anankeg"
+
+[menu]
+  [[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 0
