@@ -1,7 +1,7 @@
 baseURL = "https://vivirpandemia.netlify.app/"
 languageCode = "en-us"
 title = "TAREA 01"
-theme = "anatole"
+theme = "gohugo-theme-ananke"
 
 [menu]
   [[menu.main]]
