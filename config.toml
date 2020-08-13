@@ -1,7 +1,7 @@
-baseURL = " "https://vivirconpandemia.netlify.app/""
+baseURL = "https://vivirconpandemia.netlify.app/"
 languageCode = "en-us"
 title = "TAREA 01"
-theme = "cupper"
+theme = "gohugo-theme-ananke"
 
 [menu]
   [[menu.main]]
@@ -10,4 +10,3 @@ theme = "cupper"
 	title = "Posts"
 	url = "/posts/"
 	weight = 0
-
